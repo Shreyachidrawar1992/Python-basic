@@ -18,3 +18,4 @@ student.update({'name': 'abc', 'age': 26})
 #student.pop('name')
 print student
 changed file
+Added one more line after merge
