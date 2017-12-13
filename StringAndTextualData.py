@@ -27,7 +27,6 @@ iter()
 msg1 = 'Helloo'
 
 msg2 = 'shreya'
-
 print msg1 + ' ' + msg2
 
 print '{}, there {}'.format(msg1, msg2)
